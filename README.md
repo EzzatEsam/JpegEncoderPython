@@ -23,8 +23,8 @@ This was an assignment for information theory course.
 ### Luminance
 ![](2024-05-20-06-46-41.png)
 
-
-[License](LICENSE)
+## License
+[Apache 2.0](LICENSE)
 
 
 
